@@ -48,3 +48,11 @@ if (x > 1 && x < 10) {
 }
 
 
+const developer = "Jessica";
+
+function greet() {
+  console.log("Hello, " + developer)
+}
+
+greet();;
+
